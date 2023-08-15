@@ -108,6 +108,7 @@ return [
     |
     */
 
+    // 'faker_locale' => 'ja_JP',
     'faker_locale' => 'en_US',
 
     /*
